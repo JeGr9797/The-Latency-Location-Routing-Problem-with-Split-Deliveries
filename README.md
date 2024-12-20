@@ -26,7 +26,7 @@ In order to solve the matemathical model, it is necesary to have Decision Optimi
 ## The contents of the folders are as follows:
 - Instances folder: contains .py scripts with data for all the instances (one instance per script). 
 - Solution_methods folder: contains .ipynb scripts with the mathematical programming formulation and the ILS implementation.
-- Experiment results folder: contains both the results of the exact methods (.ipynb) and the results of the ILS (xlsx).
+- Experiment results folder: contains both the results of the exact methods (.xlsx) and the results of the ILS (.xlsx).
   - Regarding the ILS results, the structure of the solution is as follows:
     - Instance ID: the current instance.
     - Open_depots: the current open depots.
